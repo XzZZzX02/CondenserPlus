@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8.3",
+  "package": "xin.zhuzhi.condenserplus.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ConPlusMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
